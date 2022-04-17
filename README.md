@@ -8,6 +8,8 @@ This Freeway game was developed in Javascript. It is inspired in an action game 
 
 You can play this game, if you want. Just click on the following link: https://freeway-atari-game.netlify.app/
 
+**About the original game:**
+<br>
 Originally, Freeway is an action video game written by David Crane for the Atari 2600 and published by Activision in 1981.
 
 **Instructions:**
